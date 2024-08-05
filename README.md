@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm KT, my pronouns are they/them, and I lead the [Boundary](https://developer.hashicorp.com/hcp/docs/boundary) engineering team at [HashiCorp](https://www.hashicorp.com/about). To see the rest of my work in tech, check [LinkedIn](https://www.linkedin.com/in/kt-simmons/) - it's all leadership, infrastructure and reliability!
+I'm KT, my pronouns are they/them/she/her, and I lead the [Boundary](https://developer.hashicorp.com/hcp/docs/boundary) engineering team at [HashiCorp](https://www.hashicorp.com/about). To see the rest of my work in tech, check [LinkedIn](https://www.linkedin.com/in/kt-simmons/) - it's all leadership, infrastructure and reliability!
 
 Outside of work, I love:
 

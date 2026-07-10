@@ -1,8 +1,9 @@
 ### Hello 👋
 
-I'm KT, my pronouns are they/them/she/her, and I lead the [Boundary](https://developer.hashicorp.com/hcp/docs/boundary) engineering team at [HashiCorp](https://www.hashicorp.com/about). To see the rest of my work in tech, check [LinkedIn](https://www.linkedin.com/in/kt-simmons/) - it's all leadership and yelling at cloud!
+I'm KT, my pronouns are they/them/she/her, and I lead the Secure Control Plane, Runtime and [Boundary](https://developer.hashicorp.com/hcp/docs/boundary) engineering teams at [HashiCorp](https://www.hashicorp.com/about). To see the rest of my work in tech, check [LinkedIn](https://www.linkedin.com/in/kt-simmons/).
 
 Outside of work, I love:
+🐈‍⬛ Hanging out with my partner and adorable cats - Pickle, Olive and Sardine
 
 📚 [Reading books](https://app.thestorygraph.com/profile/annihilatrix), especially horror!
 
@@ -10,8 +11,6 @@ Outside of work, I love:
 
 💀 Walking around cemeteries
 
-🚲 Riding my bike, preferably next to a lake
-
-♐ Getting way too into astrology and tarot
+🚲 Riding my bike, preferably next to a lake or river
 
 🍜 Figuring out which restaurant to try this weekend
